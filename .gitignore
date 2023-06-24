@@ -1,0 +1,5 @@
+models/arcface_torch
+checkpoints
+BFM
+test_images
+*/__pycache__
